@@ -1,3 +1,5 @@
 # Labyrinth
 Lab Exam
--Although we have lost much time with property change event handling, we managed to get familiarise ourselves with strategy design pattern, it wasn't our most fortunate moments in this labwork.. 
+- In this work we made a robot simulation in which 
+Strategy & State design patterns collaborate in order
+To move the robot..
